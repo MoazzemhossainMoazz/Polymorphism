@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="A3.cs" />
     <Compile Include="Audi.cs" />
     <Compile Include="Bmw.cs" />
     <Compile Include="Car.cs" />

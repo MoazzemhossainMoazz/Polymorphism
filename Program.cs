@@ -20,6 +20,9 @@ namespace Polymorphism
             {
                 car.Repair();
             }
+
+            A3 a3 = new A3(260, "grey", "a3001");
+            a3.ShowDetails();
             Console.ReadKey(); 
         }
     }
